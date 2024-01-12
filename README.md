@@ -29,7 +29,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository to your local machine using:
 
     ```bash
-    git clone https://github.com/your-username/ielts-speaking-mock-app.git
+    [git clone https://github.com/your-username/ielts-speaking-mock-app.git](https://github.com/AsadMunaf/ielts_speaking_part_2_git.git)
     ```
 
 2. Open the project in Android Studio.
